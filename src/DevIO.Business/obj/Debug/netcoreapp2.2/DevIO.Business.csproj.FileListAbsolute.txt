@@ -1,0 +1,18 @@
+C:\Users\Fabio Lima\Downloads\EduardoPires\AppCompleta - Complexa\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+C:\Users\Fabio Lima\Downloads\EduardoPires\AppCompleta - Complexa\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\Fabio Lima\Downloads\EduardoPires\AppCompleta - Complexa\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\Fabio Lima\Downloads\EduardoPires\AppCompleta - Complexa\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\Fabio Lima\Downloads\EduardoPires\AppCompleta - Complexa\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Lima\Downloads\EduardoPires\AppCompleta - Complexa\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\Fabio Lima\Downloads\EduardoPires\AppCompleta - Complexa\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Users\Fabio Lima\Downloads\EduardoPires\AppCompleta - Complexa\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\Fabio Lima\Downloads\EduardoPires\AppCompleta - Complexa\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\DotNetCore\desenvolvedorio\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+C:\DotNetCore\desenvolvedorio\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\DotNetCore\desenvolvedorio\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\DotNetCore\desenvolvedorio\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+C:\DotNetCore\desenvolvedorio\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\DotNetCore\desenvolvedorio\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\DotNetCore\desenvolvedorio\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\DotNetCore\desenvolvedorio\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\DotNetCore\desenvolvedorio\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
